@@ -2,7 +2,7 @@
 
 Data Source:  https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-Skills Demonstrated
+#### Skills Demonstrated
 
 - Use of Scikit learn modeling techniques
 - Hyperparameter Optimization
@@ -10,7 +10,7 @@ Skills Demonstrated
 - Confusion Matricies
 - Understanding of F1 scores and class imbalances.
 
-Overview
+### Overview
 
 In this project I applied various different machine learning models from SciKit Learn’s libraries to identify fraudulent credit card transitions within a large dataset of transactions. 
 
